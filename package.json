@@ -1,0 +1,12 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Node.js app on Koyeb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
