@@ -1,10 +1,10 @@
 {
-  "name": "my-app",
+  "name": "analytics-app",
   "version": "1.0.0",
-  "description": "Node.js app on Koyeb",
-  "main": "index.js",
+  "description": "Custom Analytics JS App",
+  "main": "analytics.js",
   "scripts": {
-    "start": "node .js"
+    "start": "node analytics.js"
   },
   "dependencies": {
     "express": "^4.17.1"
